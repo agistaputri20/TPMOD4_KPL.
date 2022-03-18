@@ -1,0 +1,15 @@
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\bin\Debug\net6.0\tpmodul4_1302201140.exe
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\bin\Debug\net6.0\tpmodul4_1302201140.deps.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\bin\Debug\net6.0\tpmodul4_1302201140.runtimeconfig.json
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\bin\Debug\net6.0\tpmodul4_1302201140.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\bin\Debug\net6.0\tpmodul4_1302201140.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.csproj.AssemblyReference.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.AssemblyInfoInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.AssemblyInfo.cs
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.csproj.CoreCompileInputs.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\refint\tpmodul4_1302201140.dll
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.pdb
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\tpmodul4_1302201140.genruntimeconfig.cache
+D:\kuliah semester 4\KPL (Kontruksi Perangkat Lunak)\Praktikum\TPMOD4_KPL\tpmodul4_1302201140\tpmodul4_1302201140\obj\Debug\net6.0\ref\tpmodul4_1302201140.dll
